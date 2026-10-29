@@ -5,7 +5,7 @@
  */
 window.BRYCE_SUPABASE_CONFIG = {
   url: 'https://sedotxzzxuowbkrhzxbw.supabase.co',
-  anonKey: '' // Configure locally; see README.md. This package intentionally contains no API key.
+  anonKey: 'sb_publishable_uxEafpwJBEolF9MAfKAFHQ_y5SzmWLU' // Configure locally; see README.md. This package intentionally contains no API key.
 };
 window.BRYCE_MEDIA_BUCKETS = {
   public: 'bryce-briss-public-media',

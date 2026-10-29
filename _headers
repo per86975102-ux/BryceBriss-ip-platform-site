@@ -1,0 +1,10 @@
+# ⚠ 重要：本文件是 Netlify / Cloudflare Pages 的约定格式。
+# GitHub Pages 不会解析本文件，上面这些安全头在 GitHub Pages 上不会生效。
+# 如继续用 GitHub Pages，请忽略此文件；如迁移到 Cloudflare Pages，本文件会被自动应用。
+# CSP 暂未配置，需在真实 Supabase URL 确认后再加（见 DEPLOYMENT-GUIDE.md）。
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
